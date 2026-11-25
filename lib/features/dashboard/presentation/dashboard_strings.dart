@@ -1,0 +1,32 @@
+abstract final class DashboardStrings {
+  static const morningGreeting = 'Selamat pagi';
+  static const afternoonGreeting = 'Selamat siang';
+  static const eveningGreeting = 'Selamat malam';
+  static const nameFallback = 'teman';
+  static const latestReadingTitle = 'Gula darah terakhir';
+  static const measuredAt = 'Diukur';
+  static const averageToday = 'Rata-rata';
+  static const highestToday = 'Tertinggi';
+  static const lowestToday = 'Terendah';
+  static const todaySummary = 'Ringkasan hari ini';
+  static const weeklyTrend = 'Tren 7 hari';
+  static const insufficientTrend = 'Belum cukup data untuk melihat tren.';
+  static const nextReminder = 'Pengingat berikutnya';
+  static const noReminder = 'Belum ada pengingat.';
+  static const emptyTitle = 'Belum ada data.';
+  static const emptyAction = 'Catat gula darah pertamamu.';
+  static const loading = 'Memuat data gula darah';
+  static const loadError = 'Data gula darah tidak dapat dimuat.';
+  static const retry = 'Coba lagi';
+  static const addReading = 'Catat gula darah';
+  static const glucoseEntryTitle = 'Catat Gula Darah';
+  static const historyTitle = 'Riwayat gula darah';
+  static const foodTitle = 'Catatan makanan';
+  static const profileTitle = 'Profil';
+  static const home = 'Beranda';
+  static const history = 'Riwayat';
+  static const notes = 'Catatan';
+  static const profile = 'Profil';
+  static const glucoseSparkline = 'Grafik tren gula darah tujuh hari';
+  static const invalidReading = 'Status tidak tersedia';
+}
